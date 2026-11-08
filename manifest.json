@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "Pneumonia-Detection-Demo",
+  "versions": [
+    {
+      "commit": "6e5efd649558ea6e85ce1fdf8e552d5dc89cc973",
+      "parsed_at": "2026-11-08T03:17:10.928187+00:00",
+      "filetree": "filetree/6e5efd649558ea6e85ce1fdf8e552d5dc89cc973.nq.gz",
+      "blobs": [
+        "blob/10ade34c12f77722383e412e8e5972e395b8f25e.nq.gz",
+        "blob/2dd56ff32bb838de4a94e220af8b6c65a69ac35b.nq.gz",
+        "blob/f56088b735860c84714c22a8d608b310e1e22a57.nq.gz",
+        "blob/eb47b123e22b24bce9e2bac53402337a0e76c857.nq.gz",
+        "blob/25fdf4b35aa318d0dd27f6bef761b570a1edc10a.nq.gz",
+        "blob/a6aed0b68fc6ef72003d1a1ae54b22f6e3ee694c.nq.gz",
+        "blob/d08d0d0f996cb26ccb126fb30ad1699ed5a26b6c.nq.gz",
+        "blob/c4f7baf3ebea9acae51d0dab853e9c154274c113.nq.gz",
+        "blob/278a099e6eff160f6da27dfa2a99fc5d92de4692.nq.gz",
+        "blob/b3df526e059a2bdb1459b0183118659683c7b267.nq.gz",
+        "blob/a8a8ad60c823cf1a09cb69c79027048eb77d909a.nq.gz",
+        "blob/57259504b70a8e335fedb391cf84c27b2e7aadc3.nq.gz",
+        "blob/ce852263419115c3980f7aab97fddae33a3fdc91.nq.gz",
+        "blob/99d798ea91bd261e6773f94b62487e47cdc2a19e.nq.gz",
+        "blob/e566bcb28d688b14213f8f912a279f017e35b37f.nq.gz",
+        "blob/09d4fcad27e1c634ee862a7fe53410d1a177bad7.nq.gz",
+        "blob/9388c583fe342e8a60a291ba1aaafc53b883900a.nq.gz",
+        "blob/cfb813a2011e0f177590f7ae9bfbd970428b074b.nq.gz",
+        "blob/336f28fddde09195302815d53bbcf2c3b073955d.nq.gz",
+        "blob/b30da70698433c565f71ad5f7dca5156dac8da0a.nq.gz",
+        "blob/ee251efeea851eb0d8af8a3a3073147188d52f09.nq.gz",
+        "blob/02c03953e4dfca81c79c3ca4af59a79c28df8a63.nq.gz",
+        "blob/aba8d7fc29c18624ccb7fc2b24840543bba08c8a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
