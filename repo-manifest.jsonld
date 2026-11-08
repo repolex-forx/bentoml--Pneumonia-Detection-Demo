@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/Pneumonia-Detection-Demo/commit/6e5efd649558ea6e85ce1fdf8e552d5dc89cc973",
       "git:hexsha": "6e5efd649558ea6e85ce1fdf8e552d5dc89cc973",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
